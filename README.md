@@ -26,4 +26,5 @@ N/A
 
 ![alt text](./assets/images/HoriseonWebpage.html.png)
 
+## Deployed area link:
 
