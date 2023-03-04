@@ -5,6 +5,9 @@ Module 1 Code Refactor
 
 ## Description
 This is a website for Horiseon Social Solution Services, Inc. The website describes their core business solutions and has a fully navigational header bar.
+Updated the html code to semantic elements and changed CSS header elements to semantics.
+
+![alt text](./assets/images/HoriseonWebpage.html.png)
 
 ## Installation
 N/A
